@@ -20,4 +20,7 @@
 <img align="center" alt="html" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e programação, disponho de certificação SAP BTP - Business Technology Platform pela academia SAP, HTML e outras certificações relacionadas à gestão de equipes, e liderança.
+Apaixonado por tecnologia e programação.
+
+Certificação SAP BTP - Business Technology Platform
+pela academia SAP.
